@@ -1,117 +1,4 @@
-# IPv4 prefixes
-103.140.28.0/23        # Roblox Corporation :contentReference[oaicite:0]{index=0}
-128.116.0.0/17         # Roblox major block :contentReference[oaicite:1]{index=1}
-128.116.0.0/24         :contentReference[oaicite:2]{index=2}
-128.116.1.0/24         :contentReference[oaicite:3]{index=3}
-128.116.2.0/23         :contentReference[oaicite:4]{index=4}
-128.116.4.0/24         :contentReference[oaicite:5]{index=5}
-128.116.5.0/24         :contentReference[oaicite:6]{index=6}
-128.116.6.0/23         :contentReference[oaicite:7]{index=7}
-128.116.8.0/23         :contentReference[oaicite:8]{index=8}
-128.116.10.0/24        :contentReference[oaicite:9]{index=9}
-128.116.11.0/24        :contentReference[oaicite:10]{index=10}
-128.116.12.0/24        :contentReference[oaicite:11]{index=11}
-128.116.13.0/24        :contentReference[oaicite:12]{index=12}
-128.116.14.0/23        :contentReference[oaicite:13]{index=13}
-128.116.16.0/22        :contentReference[oaicite:14]{index=14}
-128.116.20.0/24        :contentReference[oaicite:15]{index=15}
-128.116.21.0/24        :contentReference[oaicite:16]{index=16}
-128.116.22.0/24        :contentReference[oaicite:17]{index=17}
-128.116.23.0/24        :contentReference[oaicite:18]{index=18}
-128.116.24.0/21        :contentReference[oaicite:19]{index=19}
-128.116.32.0/24        :contentReference[oaicite:20]{index=20}
-128.116.33.0/24        :contentReference[oaicite:21]{index=21}
-128.116.34.0/23        :contentReference[oaicite:22]{index=22}
-128.116.36.0/22        :contentReference[oaicite:23]{index=23}
-128.116.40.0/22        :contentReference[oaicite:24]{index=24}
-128.116.44.0/24        :contentReference[oaicite:25]{index=25}
-128.116.45.0/24        :contentReference[oaicite:26]{index=26}
-128.116.46.0/23        :contentReference[oaicite:27]{index=27}
-128.116.48.0/24        :contentReference[oaicite:28]{index=28}
-128.116.49.0/24        :contentReference[oaicite:29]{index=29}
-128.116.50.0/24        :contentReference[oaicite:30]{index=30}
-128.116.51.0/24        :contentReference[oaicite:31]{index=31}
-128.116.52.0/24        :contentReference[oaicite:32]{index=32}
-128.116.53.0/24        :contentReference[oaicite:33]{index=33}
-128.116.54.0/24        :contentReference[oaicite:34]{index=34}
-128.116.55.0/24        :contentReference[oaicite:35]{index=35}
-128.116.56.0/24        :contentReference[oaicite:36]{index=36}
-128.116.57.0/24        :contentReference[oaicite:37]{index=37}
-128.116.58.0/23        :contentReference[oaicite:38]{index=38}
-128.116.60.0/23        :contentReference[oaicite:39]{index=39}
-128.116.62.0/24        :contentReference[oaicite:40]{index=40}
-128.116.63.0/24        :contentReference[oaicite:41]{index=41}
-128.116.64.0/24        :contentReference[oaicite:42]{index=42}
-128.116.65.0/24        :contentReference[oaicite:43]{index=43}
-128.116.66.0/24        :contentReference[oaicite:44]{index=44}
-128.116.67.0/24        :contentReference[oaicite:45]{index=45}
-128.116.68.0/22        :contentReference[oaicite:46]{index=46}
-128.116.72.0/23        :contentReference[oaicite:47]{index=47}
-128.116.74.0/24        :contentReference[oaicite:48]{index=48}
-128.116.75.0/24        :contentReference[oaicite:49]{index=49}
-128.116.76.0/23        :contentReference[oaicite:50]{index=50}
-128.116.78.0/24        :contentReference[oaicite:51]{index=51}
-128.116.79.0/24        :contentReference[oaicite:52]{index=52}
-128.116.80.0/24        :contentReference[oaicite:53]{index=53}
-128.116.81.0/24        :contentReference[oaicite:54]{index=54}
-128.116.82.0/23        :contentReference[oaicite:55]{index=55}
-128.116.84.0/24        :contentReference[oaicite:56]{index=56}
-128.116.85.0/24        :contentReference[oaicite:57]{index=57}
-128.116.86.0/24        :contentReference[oaicite:58]{index=58}
-128.116.87.0/24        :contentReference[oaicite:59]{index=59}
-128.116.88.0/24        :contentReference[oaicite:60]{index=60}
-128.116.89.0/24        :contentReference[oaicite:61]{index=61}
-128.116.90.0/23        :contentReference[oaicite:62]{index=62}
-128.116.92.0/23        :contentReference[oaicite:63]{index=63}
-128.116.94.0/24        :contentReference[oaicite:64]{index=64}
-128.116.95.0/24        :contentReference[oaicite:65]{index=65}
-128.116.96.0/24        :contentReference[oaicite:66]{index=66}
-128.116.97.0/24        :contentReference[oaicite:67]{index=67}
-128.116.98.0/24        :contentReference[oaicite:68]{index=68}
-128.116.99.0/24        :contentReference[oaicite:69]{index=69}
-128.116.100.0/23       :contentReference[oaicite:70]{index=70}
-128.116.102.0/24       :contentReference[oaicite:71]{index=71}
-128.116.103.0/24       :contentReference[oaicite:72]{index=72}
-128.116.104.0/24       :contentReference[oaicite:73]{index=73}
-128.116.105.0/24       :contentReference[oaicite:74]{index=74}
-128.116.106.0/23       :contentReference[oaicite:75]{index=75}
-128.116.108.0/22       :contentReference[oaicite:76]{index=76}
-128.116.112.0/23       :contentReference[oaicite:77]{index=77}
-128.116.114.0/24       :contentReference[oaicite:78]{index=78}
-128.116.115.0/24       :contentReference[oaicite:79]{index=79}
-128.116.116.0/24       :contentReference[oaicite:80]{index=80}
-128.116.117.0/24       :contentReference[oaicite:81]{index=81}
-128.116.118.0/24       :contentReference[oaicite:82]{index=82}
-128.116.119.0/24       :contentReference[oaicite:83]{index=83}
-128.116.120.0/24       :contentReference[oaicite:84]{index=84}
-128.116.121.0/24       :contentReference[oaicite:85]{index=85}
-128.116.122.0/24       :contentReference[oaicite:86]{index=86}
-128.116.123.0/24       :contentReference[oaicite:87]{index=87}
-128.116.124.0/23       :contentReference[oaicite:88]{index=88}
-128.116.126.0/24       :contentReference[oaicite:89]{index=89}
-128.116.127.0/24       :contentReference[oaicite:90]{index=90}
-
-# IPv6 prefixes
-2620:2b:e000::/48       # Roblox :contentReference[oaicite:91]{index=91}
-2620:135:6000::/46      # Roblox :contentReference[oaicite:92]{index=92}
-2620:135:6004::/48      :contentReference[oaicite:93]{index=93}
-2620:135:6005::/48      :contentReference[oaicite:94]{index=94}
-2620:135:6006::/48      :contentReference[oaicite:95]{index=95}
-2620:135:6007::/48      :contentReference[oaicite:96]{index=96}
-2620:135:6008::/48      :contentReference[oaicite:97]{index=97}
-2620:135:6009::/48      :contentReference[oaicite:98]{index=98}
-2620:135:600a::/48      :contentReference[oaicite:99]{index=99}
-2620:135:600b::/48      :contentReference[oaicite:100]{index=100}
-2620:135:600c::/48      :contentReference[oaicite:101]{index=101}
-2620:135:600d::/48      :contentReference[oaicite:102]{index=102}
-2620:135:600e::/48      :contentReference[oaicite:103]{index=103}
-2620:135:6041::/48      :contentReference[oaicite:104]{index=104}
-
-# Main domain
 roblox.com
-*.roblox.com
-
-# Known subdomains / APIs (Roblox) :contentReference[oaicite:105]{index=105}
 accountinformation.roblox.com
 accountsettings.roblox.com
 adconfiguration.roblox.com
@@ -162,8 +49,6 @@ twostepverification.roblox.com
 users.roblox.com
 usermoderation.roblox.com
 voice.roblox.com
-
-# Redirect / alias / domain redirects :contentReference[oaicite:106]{index=106}
 blox.com
 goblocks.com
 goblox.com
@@ -197,4 +82,3 @@ roblox.tv
 roblox.uk
 roblox.us
 roblox.vn
-
