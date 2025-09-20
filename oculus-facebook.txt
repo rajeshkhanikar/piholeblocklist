@@ -1,0 +1,14 @@
+oculus.com
+*.oculus.com
+meta.com
+*.meta.com
+facebook.com
+*.facebook.com
+fbcdn.net
+*.fbcdn.net
+fbsbx.com
+*.fbsbx.com
+whatsapp.com
+*.whatsapp.com
+instagram.com
+*.instagram.com
