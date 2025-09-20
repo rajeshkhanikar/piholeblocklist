@@ -1,0 +1,15 @@
+youtube.com
+*.youtube.com
+m.youtube.com
+www.youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
+youtube-ui.l.google.com
+youtube-nocookie.com
+ytimg.com
+*.ytimg.com
+googlevideo.com
+*.googlevideo.com
+googleusercontent.com
+gstatic.com
+youtubeembed.googleapis.com
