@@ -1,0 +1,13 @@
+recroom.com
+*.recroom.com
+rec.net
+*.rec.net
+accounts.rec.net
+api.rec.net
+devportal.rec.net
+ns.rec.net
+apim.rec.net
+rooms.rec.net
+img.rec.net
+oldrec.net
+oldrec.net
